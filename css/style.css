@@ -616,6 +616,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
+img.badge {
+width: 500%;
+height: 50px;
+}
 /* Footer Section*/
 #footer {
 	background: #121d1f;

@@ -37,6 +37,7 @@ p.intro {
 	font-family: 'Open Sans', sans-serif;
 }
 a {
+
 	color: #333;
 }
 a:hover, a:focus {
@@ -616,9 +617,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
-img.badge {
-width: 500%;
-height: 50px;
+img.store-badge {
+width: 50%;
+height: 50%;
 }
 /* Footer Section*/
 #footer {
